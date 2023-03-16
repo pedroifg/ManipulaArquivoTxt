@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\pedro\OneDrive\PEDRO IVO\Documentos\Pedro Ivo\SPI\Projetos\.metadata\.plugins\org.eclipse.jdt.core
+3530364776.index
+1865797976.index
+1372677264.index

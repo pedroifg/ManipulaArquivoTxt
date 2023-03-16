@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\pedro\OneDrive\PEDRO IVO\Documentos\Pedro Ivo\SPI\P2\POO - Walter\AulasJava\ProjetoArquivoTxt\src\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
